@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zin</string>
+    <string name="title_home">الملف الشخصي</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_record">أبيات سابقة</string>
+    <string name="label_text">أدخل البيت الشعري</string>
+    <string name="enter_first">أدخل البيت الأول</string>
+    <string name="enter_second">أدخل البيت الثاني</string>
+    <string name="zin_text">زِن</string>
+    <string name="notes_label">تعليمات مهمة</string>
+    <string name="notes">تعليمات لكيفية استخدام المحرك</string>
+</resources>
